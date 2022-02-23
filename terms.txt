@@ -1,0 +1,10 @@
+gamemaster: The individual who takes up the role of telling the story and therefore acting as the kernel of the game. 
+
+player: individual who participates in the game by impersonating a character within the story
+
+NPC: non-player character. character in the story impersonated by the gamemaster
+stat: numeric value associated with a trait in the story, used as a reference for judging the outcome of an event/action
+
+modifier: numeric value associated with a trait in the story, used for modifying a stat in a distinct, optionally transient manner for a more realistic abstraction
+
+

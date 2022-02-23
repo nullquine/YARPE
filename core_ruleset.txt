@@ -1,0 +1,27 @@
+Foreword in three fundamental directives:
+
+0: This is a game. Do not take it too seriously. If any conflict or tension occurs, discuss it like intelligent human beings.
+
+1: The gamemaster (later: GM) has the last word in decision-making within the game.
+
+2: The ruleset is a support frame for the story, not a rigid mold for it.
+
+General concept:
+
+This engine is meant to be a simple supporting framework for story-oriented campaigns, therefore it does not cover aspects like world-building, races, classes and other finer details well known from the traditional TTRPGs. It also makes the assumption the players and the GM have a mutual agreement on flexibility and improvisation.
+
+rolls, checks:
+
+Again it is only a support element: the dice are spice, not the main ingredient. A few basics still:
+
+	- the GM may order a roll to decide the outcome of success-failure events. depending on the context and the player action, adequate stat must be used as a base.
+		- Ordering a roll (or accepting a players request for a roll) should only happen in a scenario where both outcomes are possible and plausible.
+
+	- The mechanism of the check:
+		- the GM secretly determines the success threshold (interval between 10 and 60. 5 means trivial, 60 means technically not impossible)
+			- alternative for NPCs: generate the threshold in the same manner as the player rolls
+		- the player rolls a d20 (or an alternative dice combination), adds the rolled value and the relevant stat value
+		- the threshold and the rolled value are compared, equality favors the player
+			- crits: rolling 1 means the action automatically fails, rolling 20 means the action automatically succeeds. (refer to line 18!)
+
+	- Character development may be expressed with stat increase which the player may permanently add to their character sheet.

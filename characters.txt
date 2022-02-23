@@ -1,0 +1,47 @@
+Character design:
+
+First, the players are to come up with a general concept about how their characters are supposed to be like: name, species, background, mentality, occupation, etc. There are no universal rules regarding this, however once agreed within the boundaries of the story, it should be fixed. The only more or less universal rule is the following: the character must be sapient or at least intelligent.
+
+Examples: 
+Boris, Human, 31 yo. Former dock worker in a smaller port town, when his wife left him he looked for a change. Friendly towards new people, suspicious of magic users. 
+
+Horgos, Dwarf, 73 yo. Mercenary, worked a lot guarding caravans. Expert earth magic user, lone wolf. Dislikes humans for a reason, but has no grudge with other species.
+
+Zed, Human cyborg, 34 yo, 5 yr stasis. Works as a consultant for security firms, drug dealer in her free time. Wishes to learn more about the AI that kept her company in her stasis.
+
+
+It is recommended to write a short bio on the character, focusing on the plot-relevant traits. Any backstory that exceeds the length of a small notebook sheet should go in a novel, not in a game.
+
+Next is to stat up the character. There are X distinct stats as follows:
+
+STR: Strength. Describes the physical strength of the character. Relevant in situations which primarily call for exerting physical force in some form.
+
+DEX: Dexterity. Describes the ability to perform actions that require accuracy in some form, either by precision or quick reflexes.
+
+CON: Constitution. Describes the aptitude for long, physically straining tasks and the tolerance for harsh conditions.
+
+CHA: Charisma. Describes the affinity for social interactions and the likelihood of good reception on that manner. Heavily context-dependent, especially the modifiers.
+
+INT: Intellect. Describes the potential for noticing important details, reaching the good conclusions. May be used for general knowledge.
+
+MAG: Magic. Optional stat, may be used to describe supernatural/transcendent abilities which fall outside of the scope of the other five main stats.
+
+LCK: Luck. Auxiliary stat, offsets the random values in the game depending on context. May be used by the GM for making plot-relevant decisions.
+
+Stat values:
+when random-generating characters: 5d8 or 4d10 or 2d20 (reroll under 5) for every stat except LCK, which is 2d6-7.
+
+when building: assign a value between 5 and 40 to every stat except LCK. Use the following reference table:
+39-40: this is THE defining trait of the character, extraordinary talent meets extraordinary effort.
+35-38: the strength of the character, either from an innate talent or commendable effort.
+30-34: the character is notably better with this trait than others
+25-29: the character is somewhat above average with this trait than others
+21-24: neither strength nor weakness: the character is average
+16-20: the character is somewhat under average with this trait than others
+11-15: the character is notably worse with this trait than others
+7-10: the definite weakness of the character, innate trait or absolute lack of cultivation
+5-6: the character is basically incapable in this trait. alternatively, the character has a disability that renders the corresponding trait nil.
+
+for LCK, 2d6-7.
+General guideline for stats: a character must not have more than one stat with value uver 38, should not have more than two stats with value over 34 and shall not have more than one stat wih value under 12 (LCK not included).
+
